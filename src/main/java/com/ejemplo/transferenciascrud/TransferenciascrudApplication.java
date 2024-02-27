@@ -1,0 +1,13 @@
+package com.ejemplo.transferenciascrud;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TransferenciascrudApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TransferenciascrudApplication.class, args);
+	}
+
+}
